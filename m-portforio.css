@@ -122,3 +122,8 @@ color:  #685454;
 footer a:hover {
 opacity: 0.2;
 }
+@media (max-width: 1000px) {
+footer a:hover {
+ opacity: 1.0;
+  }
+  }
